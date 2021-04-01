@@ -2,4 +2,4 @@
 
 A simple Todo list, both iOS & Android Apps created with Flutter & Dart. Firebase database will be added in the future.
 
-![Screenshot](captue.jpg)
+![Screenshot](capture.jpg)
